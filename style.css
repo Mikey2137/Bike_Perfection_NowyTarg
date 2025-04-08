@@ -36,3 +36,11 @@ a {
     color: white;
     text-decoration: none;
 }
+body {
+  background-image: url('images/kosmos.jpg'); 
+  background-size: cover; 
+  background-position: center; 
+  background-attachment: fixed; 
+  color: white; 
+  font-family: 'Arial', sans-serif;
+}
